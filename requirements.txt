@@ -1,12 +1,13 @@
+streamlit
 langchain
 langchain-community
-langchain-google-genai
-google-generativeai
+langchain-groq
 langgraph
 faiss-cpu
 pydantic
 python-dotenv
 beautifulsoup4
 requests
-streamlit
 wikipedia
+sentence-transformers
+pypdf
