@@ -9,5 +9,4 @@ python-dotenv
 beautifulsoup4
 requests
 wikipedia
-sentence-transformers
 pypdf
